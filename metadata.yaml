@@ -1,0 +1,22 @@
+_repo: A-Life-of-Walt-Whitman_56536
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Binns, Henry Bryan
+    birthdate: 1873
+    deathdate: 1923
+    gutenberg_agent_id: '40321'
+    url: http://www.gutenberg.org/2009/agents/40321
+description: ''
+gutenberg_issued: '2018-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Life of Walt Whitman
+url: http://www.gutenberg.org/ebooks/56536
